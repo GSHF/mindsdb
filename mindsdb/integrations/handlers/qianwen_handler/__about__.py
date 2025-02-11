@@ -1,0 +1,9 @@
+__title__ = 'MindsDB Qianwen Handler'
+__package_name__ = 'mindsdb_qianwen_handler'
+__version__ = '0.0.1'
+__description__ = "MindsDB handler for Qianwen (通义千问) LLM"
+__author__ = 'MindsDB Inc'
+__author_email__ = 'community@mindsdb.com'
+__url__ = 'https://github.com/mindsdb/mindsdb'
+__license__ = 'MIT'
+__copyright__ = 'Copyright 2024 - MindsDB Inc.'
